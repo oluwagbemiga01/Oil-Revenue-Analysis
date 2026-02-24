@@ -20,3 +20,11 @@ The objective of this analysis is to evaluate how operational execution across a
 - Prodcution Efficiency (%)
 - Revenue Loss from Downtime ($)
 - Total Revenue ($)
+
+# Operational Insights
+## By Company
+- Chevron achieved 91.3% of production, while Shell and TotalEnergies were at 91.1% and 90.6%, respectively.
+
+## By Field
+We had three fields: Agbami, Bonga, and Forcados.
+
