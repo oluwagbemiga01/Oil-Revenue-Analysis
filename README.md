@@ -1,6 +1,7 @@
 # Oil Revenue Analysis
 Operational revenue analysis of a dataset covering Shell, Chevron, and Total Energies. 
 
+---
 ## Company Context
 This project simulates a 2023 upstream production portfolio involving three major international oil companies operating across three producing fields: Agbami, Bonga, and Forcados.
 
@@ -8,6 +9,7 @@ The dataset reflects planned production targets, actual output, downtime events,
 
 The objective of this analysis is to evaluate how operational execution across assets translates into financial performance and revenue stability.
 
+---
 ## Business Questions
 - Are assets meeting planned production targets?
 - Which fields are driving revenue underperformance?
@@ -15,12 +17,14 @@ The objective of this analysis is to evaluate how operational execution across a
 - Is production efficiency improving or deteriorating?
 - Where is operational risk concentrated?
 
+---
 ## KPIs
 - Total Production (bbl)
 - Prodcution Efficiency (%)
 - Revenue Loss from Downtime ($)
 - Total Revenue ($)
 
+---
 ## Operational Insights
 ### By Company
 Chevron achieved 91.3% of production, while Shell and TotalEnergies were at 91.1% and 90.6%, respectively.
