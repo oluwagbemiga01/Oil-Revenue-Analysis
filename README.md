@@ -36,6 +36,7 @@ Production efficiency improved from Q1 to Q4, with a peak perfomance of 91.8% in
 ### By Operational Driver (Downtime)
 Downtime accounted for 9% of total annual revenue loss for year 2023.
 
+---
 ## Recommendations
 - Focus on fixing fields causing the most revenue loss (Agbami).
 - Keep on eye on production efficiency daily to spot dips.
