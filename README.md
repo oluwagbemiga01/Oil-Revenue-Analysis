@@ -28,3 +28,8 @@ The objective of this analysis is to evaluate how operational execution across a
 ### By Field
 We had three fields: Agbami, Bonga, and Forcados.
 
+Agbami field had the most revenue loss of 9.4% (~$700M)
+
+### By Time Period 
+Production efficiency improved from Q1 to Q4, with a peak perfomance of 91.8% in October
+
