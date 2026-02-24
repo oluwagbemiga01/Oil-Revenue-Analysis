@@ -23,7 +23,7 @@ The objective of this analysis is to evaluate how operational execution across a
 
 ## Operational Insights
 ### By Company
-- Chevron achieved 91.3% of production, while Shell and TotalEnergies were at 91.1% and 90.6%, respectively.
+Chevron achieved 91.3% of production, while Shell and TotalEnergies were at 91.1% and 90.6%, respectively.
 
 ### By Field
 We had three fields: Agbami, Bonga, and Forcados.
@@ -32,4 +32,13 @@ Agbami field had the most revenue loss of 9.4% (~$700M)
 
 ### By Time Period 
 Production efficiency improved from Q1 to Q4, with a peak perfomance of 91.8% in October
+
+### By Operational Driver (Downtime)
+Downtime accounted for 9% of total annual revenue loss for year 2023.
+
+## Recommendations
+- Focus on fixing fields causing the most revenue loss (Agbami).
+- Keep on eye on production efficiency daily to spot dips.
+- Review production targets to make sure they match reality on the ground.This is because from what we have here, the annual production did not meet up to the expected production.
+
 
