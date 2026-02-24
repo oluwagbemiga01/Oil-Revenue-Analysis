@@ -7,3 +7,16 @@ This project simulates a 2023 upstream production portfolio involving three majo
 The dataset reflects planned production targets, actual output, downtime events, and operational efficiency metrics across the calendar year. In a capital intensive upstream environment, production variance and downtime directly influence revenue performance and asset profitability.
 
 The objective of this analysis is to evaluate how operational execution across assets translates into financial performance and revenue stability.
+
+# Business Questions
+- Are assets meeting planned production targets?
+- Which fields are driving revenue underperformance?
+- How much revenue is lost due to downtime?
+- Is production efficiency improving or deteriorating?
+- Where is operational risk concentrated?
+
+# KPIs
+- Total Production (bbl)
+- Prodcution Efficiency (%)
+- Revenue Loss from Downtime ($)
+- Total Revenue ($)
