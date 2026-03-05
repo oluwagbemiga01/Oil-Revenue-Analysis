@@ -52,6 +52,6 @@ Downtime accounted for 9% of total annual revenue loss for year 2023.
 
 ---
 ### A video snippet of the Dashboard
-[Watch the dashboard demo](https://github.com/oluwagbemiga01/Oil-Revenue-Analysis/blob/main/Video%20of%20Dashboard.mp4)
+[Watch the dashboard demo](https://youtu.be/GxHwLBX5tl8)
 
 
