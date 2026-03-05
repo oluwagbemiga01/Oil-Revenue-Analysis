@@ -42,6 +42,10 @@ Downtime accounted for 9% of total annual revenue loss for year 2023.
 
 ---
 ## Recommendations
+
+---
+
+![](https://github.com/oluwagbemiga01/Oil-Revenue-Analysis/blob/main/oil%20analysis.png)
 - Focus on fixing fields causing the most revenue loss (Agbami).
 - Keep on eye on production efficiency daily to spot dips.
 - Review production targets to make sure they match reality on the ground.This is because from what we have here, the annual production did not meet up to the expected production.
