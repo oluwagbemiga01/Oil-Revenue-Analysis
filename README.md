@@ -2,6 +2,11 @@
 Operational revenue analysis of a dataset covering Shell, Chevron, and Total Energies. 
 
 ---
+
+## Dashboard Preview
+![](https://github.com/oluwagbemiga01/Oil-Revenue-Analysis/blob/main/oil%20analysis.png)
+
+---
 ## Company Context
 This project simulates a 2023 upstream production portfolio involving three major international oil companies operating across three producing fields: Agbami, Bonga, and Forcados.
 
@@ -47,10 +52,7 @@ Downtime accounted for 9% of total annual revenue loss for year 2023.
 - Review production targets to make sure they match reality on the ground.This is because from what we have here, the annual production did not meet up to the expected production.
 
 ---
-## Dashboard Overview
-![](https://github.com/oluwagbemiga01/Oil-Revenue-Analysis/blob/main/oil%20analysis.png)
 
----
 ### A video snippet of the Dashboard
 [Watch the dashboard demo](https://youtu.be/GxHwLBX5tl8)
 
